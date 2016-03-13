@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FlowerButtons.iml" filepath="$PROJECT_DIR$/FlowerButtons.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/workspace/FlowerButtons/FlowerButtons/FlowerButtons.iml" filepath="$USER_HOME$/Documents/workspace/FlowerButtons/FlowerButtons/FlowerButtons.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/workspace/FlowerButtons/FlowerButtons/flowerbuttons/flowerbuttons.iml" filepath="$USER_HOME$/Documents/workspace/FlowerButtons/FlowerButtons/flowerbuttons/flowerbuttons.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/workspace/FlowerButtons/FlowerButtons/sample/sample.iml" filepath="$USER_HOME$/Documents/workspace/FlowerButtons/FlowerButtons/sample/sample.iml" />
     </modules>
   </component>
 </project>
